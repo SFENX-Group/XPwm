@@ -77,8 +77,8 @@ You can search the application `Password Manager`
 
 ### 📸 Screenshot 
 
-![](https://raw.githubusercontent.com/SFENX-Group/XPwm/main/screenshot/login.png)
-![](https://raw.githubusercontent.com/SFENX-Group/XPwm/main/screenshot/main.png)
+![](https://raw.githubusercontent.com/SFENX-Group/XPwm/main/src/screenshot/login.png)
+![](https://raw.githubusercontent.com/SFENX-Group/XPwm/main/src/screenshot/main.png)
 
 ### ✨ Contributors
 
